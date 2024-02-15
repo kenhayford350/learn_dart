@@ -12,7 +12,7 @@ void main(List<String> args) {
   names.add("Mahamadu Bawumia");
 
   names.shuffle();
-  names.first();
+  names.first;
 
 
   names.forEach((name) {

@@ -1,6 +1,6 @@
 int main() {
 
-  int i = 25;
+  int i = 10;
   while(i > 0){
     print("$i.");
     i--;
